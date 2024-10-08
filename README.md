@@ -33,7 +33,7 @@ Para utilizar los scripts y herramientas de este repositorio, sigue estos pasos:
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE.md` para más detalles.
 
 ## Contacto
 
