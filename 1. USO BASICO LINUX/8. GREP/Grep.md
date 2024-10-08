@@ -49,7 +49,7 @@ grep -v link texto.txt
 Si quisiéramos eliminar varias:
 
 ```Bash
-grep -v -E 'link|urbosa|daruk' /etc/passwd
+grep -v -E 'link|urbosa|daruk' texto.txt
 ```
 
 ![Pasted image 20240613191341](https://github.com/user-attachments/assets/9ced8802-cbff-4656-93d9-bf89e57ce2eb)
