@@ -1,4 +1,3 @@
-
 **firefox** -> ejecutar firefox primer plano
 
 **firefox &** -> ejecutar firefox segundo plano
@@ -16,4 +15,3 @@
 **kill Nº PID** -> matar proceso
 
 **ps aux** -> listar todos los procesos que estén corriendo en el sistema
-
