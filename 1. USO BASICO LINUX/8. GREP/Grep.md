@@ -28,7 +28,7 @@ grep link *
 
 Si hubiera una carpeta saldría un mensaje molesto:
 
-
+![Pasted image 20240613190826](https://github.com/user-attachments/assets/883c6ced-9708-41f8-af87-1bc0cba9a199)
 
 Para arreglarlo sería con el siguiente parámetro:
 
@@ -36,7 +36,7 @@ Para arreglarlo sería con el siguiente parámetro:
 grep -s link *
 ```
 
-
+![Pasted image 20240613190906](https://github.com/user-attachments/assets/b208f7aa-3fb3-464a-9734-c1802f3c92b7)
 
 Si queremos que de los archivos que tenemos nos muestre todas las líneas menos una que escojamos:
 
@@ -44,7 +44,7 @@ Si queremos que de los archivos que tenemos nos muestre todas las líneas menos 
 grep -v link texto.txt
 ```
 
-
+![Pasted image 20240613191129](https://github.com/user-attachments/assets/2f675533-23ca-4b64-bdc1-658485989b70)
 
 Si quisiéramos eliminar varias:
 
@@ -52,8 +52,4 @@ Si quisiéramos eliminar varias:
 grep -v -E 'link|urbosa|daruk' /etc/passwd
 ```
 
-
-
-
-
-
+![Pasted image 20240613191341](https://github.com/user-attachments/assets/9ced8802-cbff-4656-93d9-bf89e57ce2eb)
