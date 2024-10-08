@@ -1,4 +1,3 @@
-
 **apt**: ``instala aplicaciones``
 
 **apt update**: ``actualiza repositorios``donde alojan las aplicaciones pero no se instala nada
@@ -30,4 +29,3 @@ sudo apt remove aplicación
 ```Bash
 sudo autoremove
 ```
-
