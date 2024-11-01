@@ -1,4 +1,3 @@
-
 Definimos los colores como variables:
 
 ```Bash
@@ -30,7 +29,7 @@ echo -e "${gris_claro}La nieve es de color gris claro.${sin_color}"
 echo -e "${blanco}Las nubes son de color blanco.${sin_color}"
 ```
 
-![[Pasted image 20240625114131.png]]
+![Pasted image 20240625114131](https://github.com/user-attachments/assets/4230b969-4de8-4738-873e-0990b17682d8)
 
 Ejecutamos el ``script``:
 
@@ -38,7 +37,7 @@ Ejecutamos el ``script``:
 ./script.sh
 ```
 
-![[Pasted image 20240625113955.png]]
+![Pasted image 20240625113955](https://github.com/user-attachments/assets/aaa87e1c-0851-4ba8-b856-742bf5fb3edc)
 
 Definimos los colores más luminosos como variables
 
@@ -66,16 +65,14 @@ echo -e "${magenta_luminoso}Las flores son de color magenta luminoso."
 echo -e "${cyan_luminoso}El agua es de color cyan luminoso."
 echo -e "${blanco_luminoso}Las nubes son de color blanco luminoso."
 ```
-
-![[Pasted image 20240625114608.png]]
+![Pasted image 20240625114608](https://github.com/user-attachments/assets/b3889396-129a-4762-a03d-6b155348f15f)
 
 Ejecutamos el ``script``:
 
 ```Bash
 ./script.sh
 ```
-
-![[Pasted image 20240625114546.png]]
+![Pasted image 20240625114546](https://github.com/user-attachments/assets/54f039c0-492d-47ce-b7e3-9114f03271eb)
 
 Resetear el color por defecto
 
@@ -88,13 +85,11 @@ Imprimimos una frase en el color por defecto
 ```Bash
 echo -e "${sin_color}Esta frase está en el color por defecto."
 ```
-
-![[Pasted image 20240625114642.png]]
+![Pasted image 20240625114642](https://github.com/user-attachments/assets/7d37b9db-5e22-45cb-b2f9-aa50496084fb)
 
 Ejecutamos el ``script``:
 
 ```Bash
 ./script.sh
 ```
-
-![[Pasted image 20240625114702.png]]
+![Pasted image 20240625114702](https://github.com/user-attachments/assets/2beb6429-62f7-485a-86e3-acd2ed0535b4)
