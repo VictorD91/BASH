@@ -1,4 +1,3 @@
-
 Descargamos Ubuntu Server
 
 
@@ -36,4 +35,3 @@ Iniciamos con usuario -> sudo apt install net-tools
 
 
 IP: 10.0.2.50
-
