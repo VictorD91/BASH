@@ -1,4 +1,3 @@
-
 Creamos un ``script`` para detectas que ``sistema operativo`` es una ``IP``:
 
 Código explicado:
@@ -28,7 +27,7 @@ else
 fi
 ```
 
-![[Pasted image 20240701161439.png]]
+![Pasted image 20240701161439](https://github.com/user-attachments/assets/5844644e-818a-4304-aeab-92148150618b)
 
 Código limpio:
 
@@ -54,7 +53,7 @@ else
 fi
 ```
 
-![[Pasted image 20240701161527.png]]
+![Pasted image 20240701161527](https://github.com/user-attachments/assets/d3ecede4-ea42-45ed-8427-7e9421306ce4)
 
 Le damos permisos:
 
@@ -62,7 +61,7 @@ Le damos permisos:
 chmod +x detector.sh
 ```
 
-![[Pasted image 20240701160836.png]]
+![Pasted image 20240701160836](https://github.com/user-attachments/assets/ddd16e63-d2d3-4967-93e6-5bad2f72d1ed)
 
 Ejecutamos el ``script``:
 
@@ -70,4 +69,4 @@ Ejecutamos el ``script``:
 ./detector.sh
 ```
 
-![[Pasted image 20240701160914.png]]
+![Pasted image 20240701160914](https://github.com/user-attachments/assets/ba004424-8eb2-4022-8e49-bba9f4d8725b)
