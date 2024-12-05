@@ -1,4 +1,3 @@
-
 Creamos un ``script`` que busque archivos repetidos y los elimine:
 
 Código explicado:
@@ -22,7 +21,7 @@ echo "$archivos" | while read -r line; do
 done
 ```
 
-![[Pasted image 20240701111526.png]]
+![Pasted image 20240701111526](https://github.com/user-attachments/assets/a6b5440b-3d92-4c66-9604-5ef939513df9)
 
 Código limpio:
 
@@ -42,7 +41,7 @@ echo "$archivos" | while read -r line; do
 done
 ```
 
-![[Pasted image 20240701111734.png]]
+![Pasted image 20240701111734](https://github.com/user-attachments/assets/e4695042-627d-4ef9-944f-90caa819854f)
 
 Le damos permisos:
 
@@ -50,12 +49,10 @@ Le damos permisos:
 chmod +x script.sh
 ```
 
-![[Pasted image 20240701111213.png]]
+![Pasted image 20241205152906](https://github.com/user-attachments/assets/32a2ec1a-5217-4a86-9fbf-75bb6eb5f5bb)
 
 Ejecutamos el ``script``:
 
 ```Bash
 ./script.sh
 ```
-
-
