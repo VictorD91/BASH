@@ -56,3 +56,5 @@ Ejecutamos el ``script``:
 ```Bash
 ./script.sh
 ```
+
+![Pasted image 20241205154531](https://github.com/user-attachments/assets/0f4790f3-9ba0-40f1-a6f0-ae17e34651e4)
