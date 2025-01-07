@@ -1,4 +1,3 @@
-
 Creamos un ``script`` para ``crear`` o ``borrar`` a un ``usuario``:
 
 Código explicado:
@@ -43,7 +42,7 @@ done
 
 ```
 
-![[Pasted image 20240701165242.png]]
+![Pasted image 20240701165242](https://github.com/user-attachments/assets/7f8f59c9-e761-46c2-b33d-9ea900b017ac)
 
 Código limpio:
 
@@ -85,7 +84,7 @@ while true; do
 done
 ```
 
-![[Pasted image 20240701165403.png]]
+![Pasted image 20240701165403](https://github.com/user-attachments/assets/6c31abbc-a480-4f90-b73e-a9cd51bccae9)
 
 Le damos permisos:
 
@@ -93,7 +92,7 @@ Le damos permisos:
 chmod +x gestorusers.sh
 ```
 
-![[Pasted image 20240701164155.png]]
+![Pasted image 20240701164155](https://github.com/user-attachments/assets/4a910c8b-6ae2-42f3-9cab-044748f733b9)
 
 Ejecutamos el ``script``:
 
@@ -101,4 +100,4 @@ Ejecutamos el ``script``:
 ./gestorusers.sh
 ```
 
-![[Pasted image 20240701164829.png]]
+![Pasted image 20240701164829](https://github.com/user-attachments/assets/1f77d2bc-d957-4e18-b71e-285167e2c465)
