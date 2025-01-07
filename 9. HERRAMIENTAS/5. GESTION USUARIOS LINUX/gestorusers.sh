@@ -1,11 +1,13 @@
 #/bin/bash
 
 #Creamos dos funciones para crear o borrar el usuario que le pase un usuario
+
 create_user() {
         read -p "Ingrese el nombre del usuario que desea crear: " username
         sudo adduser $username
         echo "Usuario $username creado"
 }
+
 delete_user() {
         read -p "Ingrese el nombre del usuario que desea borrar: " username
         sudo deluser --remove-home $username
