@@ -1,6 +1,6 @@
 # Proyecto de Ciberseguridad de Víctor
 
-¡Bienvenido a mis repositorio de ciberseguridad! Aquí encontrarás varios repositorios con una colección de apuntes, scripts y herramientas que he desarrollado para aprender y mejorar mis habilidades en ciberseguridad.
+¡Bienvenido a mis repositorio de ciberseguridad! Aquí encontrarás varios repositorios con una colección de apuntes, scripts y herramientas que he desarrollado para aprender y mejorar mis habilidades en ciberseguridad. También habrá soluciones de laboratorios que he realizado y puesto en práctica mis habilidades.
 
 ## Repositorio de Bash
 
